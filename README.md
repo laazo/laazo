@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @laazo from 🇿🇦
 - 👀 I’m interested in Java, Javascript, Angular, AWS
-- 🌱 I’m currently learning a lot of AWS and SpringBoot
+- 🌱 I’m currently learning AWS and SpringBoot
